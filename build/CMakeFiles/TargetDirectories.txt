@@ -1,0 +1,6 @@
+C:/Users/acer/MedAICare/build/CMakeFiles/lint.dir
+C:/Users/acer/MedAICare/build/CMakeFiles/test.dir
+C:/Users/acer/MedAICare/build/CMakeFiles/forcetest.dir
+C:/Users/acer/MedAICare/build/CMakeFiles/docs.dir
+C:/Users/acer/MedAICare/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/acer/MedAICare/build/CMakeFiles/ZERO_CHECK.dir
