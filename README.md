@@ -14,7 +14,7 @@ Talk with the chatbot which will give heath advises strictly based on Doctor's r
 To install and run this app locally, you need to have Node.js, Python, and pip installed on your machine.
 
 # Clone the repository
-git clone -https://github.com/vibhorjoshi/MedAICare.git
+git clone -https://github.com/vibhorjoshi/MedAICare
 
 # Setup the Project
 
